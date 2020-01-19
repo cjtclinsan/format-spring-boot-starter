@@ -1,0 +1,8 @@
+com\tc\starter\HelloFormatTemplate.class
+com\tc\starter\autoconfiguration\HelloAutoConfiguration.class
+com\tc\starter\format\JsonFormatProcessor.class
+com\tc\starter\autoconfiguration\FormatAutoConfiguration.class
+com\tc\starter\format\StringFormatProcessor.class
+META-INF\spring-configuration-metadata.json
+com\tc\starter\autoconfiguration\HelloProperties.class
+com\tc\starter\format\FormatProcessor.class

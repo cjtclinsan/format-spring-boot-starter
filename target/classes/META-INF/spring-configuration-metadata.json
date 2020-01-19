@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "tc.hello.format",
+      "type": "com.tc.starter.autoconfiguration.HelloProperties",
+      "sourceType": "com.tc.starter.autoconfiguration.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tc.hello.format.info",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.tc.starter.autoconfiguration.HelloProperties"
+    }
+  ],
+  "hints": []
+}
